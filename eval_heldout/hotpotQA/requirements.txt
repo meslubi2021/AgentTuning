@@ -1,2 +1,2 @@
-langchain==0.0.174
+langchain==0.2.3
 pandas<=2.0.0
