@@ -60,7 +60,7 @@ multidict==6.0.2
 multiprocess==0.70.12.2
 networkx==3.0
 ninja==1.10.2.3
-nltk==3.8
+nltk==3.8.1
 nodeenv==1.7.0
 numpy==1.22.2
 # nvidia-cublas-cu11==11.10.3.66
